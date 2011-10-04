@@ -8,7 +8,7 @@ Directions
 2. Copy the app directory and build.xml into your Symfony root directory.
 3. Enjoy.
 
-*NOTE: You'll probably want to add "build/*" to your SCM's ignore file.*
+*NOTE: You'll probably want to add "build/\*" to your SCM's ignore file.*
 
 Things you may want to tweak
 ----------------------------
